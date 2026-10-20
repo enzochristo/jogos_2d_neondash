@@ -1,0 +1,40 @@
+# Unity - pastas geradas automaticamente
+NeonDash/[Ll]ibrary/
+NeonDash/[Tt]emp/
+NeonDash/[Oo]bj/
+NeonDash/[Bb]uild/
+NeonDash/[Bb]uilds/
+NeonDash/[Ll]ogs/
+NeonDash/[Uu]ser[Ss]ettings/
+NeonDash/[Mm]emoryCaptures/
+NeonDash/[Rr]ecordings/
+
+# Arquivos de projeto gerados pela IDE
+NeonDash/*.csproj
+NeonDash/*.sln
+NeonDash/*.slnx
+NeonDash/*.suo
+NeonDash/*.user
+NeonDash/*.userprefs
+NeonDash/*.pidb
+NeonDash/*.booproj
+NeonDash/.vs/
+NeonDash/.vscode/
+NeonDash/.idea/
+NeonDash/.gradle/
+
+# Crash logs / builds
+NeonDash/sysinfo.txt
+NeonDash/crashlytics-build.properties
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Asset meta de dados de debug
+NeonDash/Assets/AssetStoreTools*
+
+# SO
+.DS_Store
+Thumbs.db
+neondash_webgl.zip
